@@ -18,5 +18,5 @@
 
 ## Team plan
 
-[Notion](https://abstracted-range-ee3.notion.site/Final-Project-Team-Plan-51152a486bef49d583cc7a6e73268e50)
+[Notion](https://ansoncaonguyen.notion.site/Final-Project-Team-Plan-51152a486bef49d583cc7a6e73268e50)
 
